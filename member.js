@@ -1,12 +1,5 @@
 function skillsmember() {
-  const skills = [
-    'JavaScript',
-    'React',
-    'Node.js',
-    'HTML',
-    'CSS',
-    'Python',
-  ];
-
-  return skills;
+    this.name = 'John Doe';
+    this.age = 25;
+    this.email = ''
 }
